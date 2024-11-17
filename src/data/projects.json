@@ -11,7 +11,7 @@
     "imageSrc": "project/project.png",
     "description": "A demo application designed for Dell to showcase features and functionalities.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "https://dell-clone-frontend.vercel.app/"
+    "demo": "https://www.example.com"
   },
   {
     "title": "XP IPTV",
