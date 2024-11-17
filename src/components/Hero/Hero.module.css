@@ -20,6 +20,7 @@
 }
 
 .title {
+  
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
@@ -105,11 +106,30 @@
     align-items: center;
    width: 100%;
     margin-top: 20px;
+    flex-wrap: wrap;
   }
   .heroImg {
   border-radius: 30%;
   width: 60%;
 
+}
+
+}
+
+@media screen and (max-width: 450px) {
+  
+  .title {
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 33px;
+  text-wrap:wrap;
+ 
+}
+
+.description {
+  font-size: 25px;
+  font-family: var(--font-roboto);
+  margin-bottom: 52px;
 }
 
 }
