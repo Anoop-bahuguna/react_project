@@ -50,6 +50,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    padding-inline: 5%;
   }
 
   .text {
@@ -71,6 +72,8 @@
   }
 
   .links {
+   
+    justify-content: left;
     align-items: center;
     gap: 10px;
   }

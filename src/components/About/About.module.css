@@ -75,6 +75,7 @@
     .container{
         background-color: transparent;
         padding-inline: 0;
+        padding-block: 25px;
     }
 
     .content{
