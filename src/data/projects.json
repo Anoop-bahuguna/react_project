@@ -1,0 +1,23 @@
+[
+  {
+    "title": "To-do List",
+    "imageSrc": "project/project.png",
+    "description": "A simple to-do list application for managing tasks, built using HTML, CSS, and JavaScript.",
+    "skills": ["Html", "Javascript", "Css"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Dell Demo-app",
+    "imageSrc": "project/project.png",
+    "description": "A demo application designed for Dell to showcase features and functionalities.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://dell-clone-frontend.vercel.app/"
+  },
+  {
+    "title": "XP IPTV",
+    "imageSrc": "project/project.png",
+    "description": "A marketing web-app for XP IPTV, designed to promote its streaming service and features.",
+    "skills": ["Angular", "Express", "Node", "MongoDB"],
+    "demo": "https://sidhbalitech-9xplayer.web.app/home"
+  }
+]

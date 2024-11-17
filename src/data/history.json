@@ -1,0 +1,25 @@
+[
+  {
+    "role": "Web Development Trainee,",
+    "organisation": "Brillica Services",
+    "startDate": "October 2023",
+    "endDate": "-May 2024",
+    "experiences": [
+      "Developed dynamic web applications, including a Calculator, To-Do List, and a Dell demo app, incorporating responsive design and interactive features that enhanced user engagement.",
+      "Improved application performance by reducing load times by 50% through optimizing code, streamlining assets, and leveraging modern web practices."
+    ],
+    "imageSrc": "history/brillica.jpg"
+  },
+  {
+    "role": "Front-end Developer,",
+    "organisation": "XP IPTV",
+    "startDate": "June 2024",
+    "endDate": "-Present",
+    "experiences": [
+      "Played a key role in building a reusable component library, ensuring consistent design patterns and scalability across multiple projects.",
+      "Designed and developed custom UI components, focusing on user experience, accessibility, and visual appeal.",
+      "Spearheaded the Web Player interface design, prioritizing intuitive navigation and enhancing overall user interaction."
+    ],
+    "imageSrc": "history/XP_IPTV.png"
+  }
+]
